@@ -3,6 +3,7 @@
 [![IRC](https://img.shields.io/badge/freenode-%23ctf--tools-green.svg)](http://webchat.freenode.net/?channels=#ctf-tools)
 
 This is a collection of setup scripts to create an install of various security research tools.
+It is a very good collection of CTF tools and hacking to where you can get many tools for free .
 Of course, this isn't a hard problem, but it's really nice to have them in one place that's easily deployable to new machines and so forth.
 The install-scripts for these tools are checked regularly, the results can be found on [the build status page](_buildstatus/index.md).
 
